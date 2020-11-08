@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ActionRPG.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{74050604-C42A-41ED-B6E8-AD911A1BED96}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRPG.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ActionRPGEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\ActionRPG.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FE5E6BBD-E0EB-42CD-A3BC-DA785236EC79}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultDeviceProfiles.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{D6C70BB0-6289-4139-B78F-39EEF1E98FE3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\Localization">
+      <UniqueIdentifier>{DD468900-AA42-4D63-A2BD-AFAFDF7568EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Localization\ARPG_Compile.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\ARPG_Export.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\ARPG_ExportDialogueScript.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\ARPG_Gather.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\ARPG_GenerateReports.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\ARPG_Import.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\ARPG_ImportDialogue.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <None Include="..\..\Config\Localization\ARPG_ImportDialogueScript.ini">
+      <Filter>Config\Localization</Filter>
+    </None>
+    <Filter Include="Source\ActionRPG">
+      <UniqueIdentifier>{7989CBFD-EC00-43DF-80D6-C03A8FC47D5A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRPG\ActionRPG.Build.cs">
+      <Filter>Source\ActionRPG</Filter>
+    </None>
+    <None Include="..\..\Source\ActionRPG\AddRoundIcon_UPL.xml">
+      <Filter>Source\ActionRPG</Filter>
+    </None>
+    <Filter Include="Source\ActionRPG\Private">
+      <UniqueIdentifier>{4427EF7E-F12F-41B4-848D-C196AEACFB8D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\ActionRPG.cpp">
+      <Filter>Source\ActionRPG\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\RPGAssetManager.cpp">
+      <Filter>Source\ActionRPG\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\RPGBlueprintLibrary.cpp">
+      <Filter>Source\ActionRPG\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\RPGCharacterBase.cpp">
+      <Filter>Source\ActionRPG\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\RPGGameInstanceBase.cpp">
+      <Filter>Source\ActionRPG\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\RPGGameModeBase.cpp">
+      <Filter>Source\ActionRPG\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\RPGGameStateBase.cpp">
+      <Filter>Source\ActionRPG\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\RPGPlayerControllerBase.cpp">
+      <Filter>Source\ActionRPG\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\RPGSaveGame.cpp">
+      <Filter>Source\ActionRPG\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ActionRPG\Private\Abilities">
+      <UniqueIdentifier>{80F74F84-FD47-4826-BAAD-F45AB3FF0927}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\Abilities\RPGAbilitySystemComponent.cpp">
+      <Filter>Source\ActionRPG\Private\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\Abilities\RPGAbilityTask_PlayMontageAndWaitForEvent.cpp">
+      <Filter>Source\ActionRPG\Private\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\Abilities\RPGAbilityTypes.cpp">
+      <Filter>Source\ActionRPG\Private\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\Abilities\RPGAttributeSet.cpp">
+      <Filter>Source\ActionRPG\Private\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\Abilities\RPGDamageExecution.cpp">
+      <Filter>Source\ActionRPG\Private\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\Abilities\RPGGameplayAbility.cpp">
+      <Filter>Source\ActionRPG\Private\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\Abilities\RPGTargetType.cpp">
+      <Filter>Source\ActionRPG\Private\Abilities</Filter>
+    </ClCompile>
+    <Filter Include="Source\ActionRPG\Private\Items">
+      <UniqueIdentifier>{DFD3DAD9-2ECE-4793-BD04-3814581B54E8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ActionRPG\Private\Items\RPGItem.cpp">
+      <Filter>Source\ActionRPG\Private\Items</Filter>
+    </ClCompile>
+    <Filter Include="Source\ActionRPG\Public">
+      <UniqueIdentifier>{E2B42939-4BAC-4508-BCA9-0087CCF6CDD8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\ActionRPG.h">
+      <Filter>Source\ActionRPG\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\RPGAssetManager.h">
+      <Filter>Source\ActionRPG\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\RPGBlueprintLibrary.h">
+      <Filter>Source\ActionRPG\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\RPGCharacterBase.h">
+      <Filter>Source\ActionRPG\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\RPGGameInstanceBase.h">
+      <Filter>Source\ActionRPG\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\RPGGameModeBase.h">
+      <Filter>Source\ActionRPG\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\RPGGameStateBase.h">
+      <Filter>Source\ActionRPG\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\RPGInventoryInterface.h">
+      <Filter>Source\ActionRPG\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\RPGPlayerControllerBase.h">
+      <Filter>Source\ActionRPG\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\RPGSaveGame.h">
+      <Filter>Source\ActionRPG\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\RPGTypes.h">
+      <Filter>Source\ActionRPG\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\ActionRPG\Public\Abilities">
+      <UniqueIdentifier>{A040BB3C-4754-49DE-9C73-35283D48D88F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\Abilities\RPGAbilitySystemComponent.h">
+      <Filter>Source\ActionRPG\Public\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\Abilities\RPGAbilityTask_PlayMontageAndWaitForEvent.h">
+      <Filter>Source\ActionRPG\Public\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\Abilities\RPGAbilityTypes.h">
+      <Filter>Source\ActionRPG\Public\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\Abilities\RPGAttributeSet.h">
+      <Filter>Source\ActionRPG\Public\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\Abilities\RPGDamageExecution.h">
+      <Filter>Source\ActionRPG\Public\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\Abilities\RPGGameplayAbility.h">
+      <Filter>Source\ActionRPG\Public\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\Abilities\RPGTargetType.h">
+      <Filter>Source\ActionRPG\Public\Abilities</Filter>
+    </ClInclude>
+    <Filter Include="Source\ActionRPG\Public\Items">
+      <UniqueIdentifier>{EA8EB3E1-9479-4C3B-9267-374374D038EB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\Items\RPGItem.h">
+      <Filter>Source\ActionRPG\Public\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\Items\RPGPotionItem.h">
+      <Filter>Source\ActionRPG\Public\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\Items\RPGSkillItem.h">
+      <Filter>Source\ActionRPG\Public\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\Items\RPGTokenItem.h">
+      <Filter>Source\ActionRPG\Public\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ActionRPG\Public\Items\RPGWeaponItem.h">
+      <Filter>Source\ActionRPG\Public\Items</Filter>
+    </ClInclude>
+    <Filter Include="Source\ActionRPG\Resources">
+      <UniqueIdentifier>{13795C62-103D-4E77-99CE-E2A47E30D666}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ActionRPG\Resources\Windows">
+      <UniqueIdentifier>{9A68300B-600E-4E02-A1A5-8CF49CA2BDF3}</UniqueIdentifier>
+    </Filter>
+    <ResourceCompile Include="..\..\Source\ActionRPG\Resources\Windows\ActionRPG.rc">
+      <Filter>Source\ActionRPG\Resources\Windows</Filter>
+    </ResourceCompile>
+    <Filter Include="Source\ActionRPGLoadingScreen">
+      <UniqueIdentifier>{4EE9FCF7-FE4A-44FE-936D-A52FC6830D02}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRPGLoadingScreen\ActionRPGLoadingScreen.Build.cs">
+      <Filter>Source\ActionRPGLoadingScreen</Filter>
+    </None>
+    <Filter Include="Source\ActionRPGLoadingScreen\Private">
+      <UniqueIdentifier>{3367BAC4-9885-408F-8B6C-EAF382B3913D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ActionRPGLoadingScreen\Private\ActionRPGLoadingScreen.cpp">
+      <Filter>Source\ActionRPGLoadingScreen\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ActionRPGLoadingScreen\Public">
+      <UniqueIdentifier>{0C21F7A7-259C-4060-A5B7-B407BB97D3B1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ActionRPGLoadingScreen\Public\ActionRPGLoadingScreen.h">
+      <Filter>Source\ActionRPGLoadingScreen\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

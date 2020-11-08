@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ActionRPGLoadingScreen.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\ActionRPGEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Development\ActionRPGLoadingScreen\ActionRPGLoadingScreen.cpp.obj"
+"C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Development\ActionRPGLoadingScreen\Default.rc2.res"
+/OUT:"C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Development\ActionRPGLoadingScreen\UE4Editor-ActionRPGLoadingScreen.lib"
+/INCLUDE:IMPLEMENT_MODULE_ActionRPGLoadingScreen

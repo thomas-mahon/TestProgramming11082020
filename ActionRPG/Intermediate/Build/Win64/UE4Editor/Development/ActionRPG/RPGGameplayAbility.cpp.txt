@@ -1,0 +1,83 @@
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\Abilities/RPGGameplayAbility.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities\GameplayAbility.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffectTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AttributeSet.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CurveTable.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Curves/SimpleCurve.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SimpleCurve.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveTable.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AttributeSet.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\PhysicalMaterials/PhysicalMaterial.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Vehicles/TireType.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TireType.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsSettingsEnums.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsSettingsEnums.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicalMaterial.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemLog.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLogger.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\EngineStats.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayEffectTypes.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayAbilitySpec.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayPrediction.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayPrediction.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilitySpec.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffect.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffectAggregator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagAssetInterface.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagAssetInterface.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\ActiveGameplayEffectIterator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectKey.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayEffect.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/GameplayAbilityTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Animation/AnimInstance.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\BonePose.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\Animation/AnimStats.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\Animation/AnimMTStats.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\Animation/AnimMTStats.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/Base64.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Animation/AnimNotifies/AnimNotify.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNotify.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstance.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/GameplayAbilityTargetTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityTargetTypes.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityTypes.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTaskOwnerInterface.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTasks\Public\GameplayTaskTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTaskOwnerInterface.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbility.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\Abilities/RPGAbilityTypes.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGAbilityTypes.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGGameplayAbility.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\Abilities/RPGAbilitySystemComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayCueInterface.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayCueInterface.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTasksComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTask.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakInterfacePtr.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTask.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTaskResource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTaskResource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTasksComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemReplicationProxyInterface.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemReplicationProxyInterface.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemComponent.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGAbilitySystemComponent.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\Abilities/RPGTargetType.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGTargetType.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\RPGCharacterBase.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\RPGInventoryInterface.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGInventoryInterface.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemInterface.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemInterface.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\Abilities/RPGAttributeSet.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGAttributeSet.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGCharacterBase.generated.h

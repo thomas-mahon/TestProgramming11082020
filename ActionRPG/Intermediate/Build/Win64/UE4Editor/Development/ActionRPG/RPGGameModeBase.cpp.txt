@@ -1,0 +1,10 @@
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\RPGGameModeBase.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGGameModeBase.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\RPGGameStateBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGGameStateBase.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\RPGPlayerControllerBase.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\RPGInventoryInterface.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGInventoryInterface.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGPlayerControllerBase.generated.h

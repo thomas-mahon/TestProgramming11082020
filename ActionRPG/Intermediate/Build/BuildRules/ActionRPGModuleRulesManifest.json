@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\tmaho\\Documents\\Unreal Projects\\ActionRPG\\Source\\ActionRPG\\ActionRPG.Build.cs",
+		"C:\\Users\\tmaho\\Documents\\Unreal Projects\\ActionRPG\\Source\\ActionRPGLoadingScreen\\ActionRPGLoadingScreen.Build.cs",
+		"C:\\Users\\tmaho\\Documents\\Unreal Projects\\ActionRPG\\Source\\ActionRPG.Target.cs",
+		"C:\\Users\\tmaho\\Documents\\Unreal Projects\\ActionRPG\\Source\\ActionRPGEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

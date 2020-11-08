@@ -1,0 +1,17 @@
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\Items/RPGItem.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Source\ActionRPG\Public\RPGAssetManager.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/AssetManager.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine\AssetManagerTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetManagerTypes.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine\StreamableManager.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AssetRegistry\Public\IAssetRegistry.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\AssetRegistry\Public\ARFilter.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\ARFilter.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformChunkInstall.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine\ContentEncryptionConfig.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetManager.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGAssetManager.generated.h
+C:\Users\tmaho\Documents\Unreal Projects\ActionRPG\Intermediate\Build\Win64\UE4Editor\Inc\ActionRPG\RPGItem.generated.h
